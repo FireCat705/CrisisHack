@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638927793216628497
-    m_Hash: 3159815999
+      ticks: 638927852037165369
+    m_Hash: 2480516434
   m_LockFileStatus:
     m_FilePath: C:/Users/alexz/OneDrive/Documents/GitHub/CrisisHack/CrisisHack/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638927793216765089
-    m_Hash: 3240748131
+      ticks: 638927852037231751
+    m_Hash: 183675921
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -239,7 +239,7 @@ m_ResolvedPackages:
   - name: com.unity.burst
     version: 1.8.13
   - name: com.unity.mathematics
-    version: 1.2.6
+    version: 1.3.1
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
   - name: com.unity.2d.sprite
@@ -253,7 +253,15 @@ m_ResolvedPackages:
   - name: com.unity.modules.imgui
     version: 1.0.0
   - name: com.unity.collections
-    version: 1.2.4
+    version: 2.2.1
+  - name: com.unity.nuget.mono-cecil
+    version: 1.11.4
+  - name: com.unity.modules.unityanalytics
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.test-framework.performance
+    version: 3.0.2
   - name: com.unity.test-framework
     version: 1.1.33
   - name: com.unity.ext.nunit
@@ -499,6 +507,175 @@ m_ResolvedPackages:
     version: 2.0.22
     nextVersion: 
     recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.services.multiplayer@1.1.6
+  testable: 0
+  isDirectDependency: 1
+  version: 1.1.6
+  source: 1
+  resolvedPath: C:\Users\alexz\OneDrive\Documents\GitHub\CrisisHack\CrisisHack\Library\PackageCache\com.unity.services.multiplayer@1.1.6
+  assetPath: Packages/com.unity.services.multiplayer
+  name: com.unity.services.multiplayer
+  displayName: Multiplayer Services
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: The Multiplayer Services package is a one-stop solution for adding
+    multiplayer elements to a game developed in Unity. The Unity Gaming Services
+    (UGS) Multiplayer services powers these capabilities to define how groups of
+    players interact in your games.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 0.0.5
+    - 0.0.6
+    - 0.0.7
+    - 0.2.0
+    - 0.3.0
+    - 0.4.0
+    - 0.4.2
+    - 0.5.0
+    - 0.5.1
+    - 0.6.0
+    - 1.0.0-pre.1
+    - 1.0.0
+    - 1.0.1
+    - 1.0.2
+    - 1.1.0
+    - 1.1.1
+    - 1.1.2
+    - 1.1.3
+    - 1.1.4
+    - 1.1.5
+    - 1.1.6
+    - 1.2.0-exp.1
+    - 1.2.0-exp.2
+    - 1.2.0-exp.3
+    - 1.2.0-exp.4
+    - 1.2.0-pre.1
+    compatible:
+    - 0.0.5
+    - 0.0.6
+    - 0.0.7
+    - 0.2.0
+    - 0.3.0
+    - 0.4.0
+    - 0.4.2
+    - 0.5.0
+    - 0.5.1
+    - 0.6.0
+    - 1.0.0-pre.1
+    - 1.0.0
+    - 1.0.1
+    - 1.0.2
+    - 1.1.0
+    - 1.1.1
+    - 1.1.2
+    - 1.1.3
+    - 1.1.4
+    - 1.1.5
+    - 1.1.6
+    - 1.2.0-exp.1
+    - 1.2.0-exp.2
+    - 1.2.0-exp.3
+    - 1.2.0-exp.4
+    - 1.2.0-pre.1
+    recommended: 1.1.6
+    deprecated: []
+  dependencies:
+  - name: com.unity.transport
+    version: 2.5.0
+  - name: com.unity.collections
+    version: 2.2.1
+  - name: com.unity.services.qos
+    version: 1.3.0
+  - name: com.unity.services.core
+    version: 1.13.0
+  - name: com.unity.services.wire
+    version: 1.4.0
+  - name: com.unity.services.deployment
+    version: 1.3.0
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.2.1
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.services.authentication
+    version: 3.3.3
+  resolvedDependencies:
+  - name: com.unity.transport
+    version: 2.5.0
+  - name: com.unity.burst
+    version: 1.8.13
+  - name: com.unity.mathematics
+    version: 1.3.1
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.collections
+    version: 2.2.1
+  - name: com.unity.nuget.mono-cecil
+    version: 1.11.4
+  - name: com.unity.modules.unityanalytics
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.test-framework.performance
+    version: 3.0.2
+  - name: com.unity.test-framework
+    version: 1.1.33
+  - name: com.unity.ext.nunit
+    version: 1.0.6
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.services.qos
+    version: 1.3.0
+  - name: com.unity.services.core
+    version: 1.13.0
+  - name: com.unity.modules.androidjni
+    version: 1.0.0
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.2.1
+  - name: com.unity.services.authentication
+    version: 3.3.3
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.services.wire
+    version: 1.4.0
+  - name: com.unity.services.deployment
+    version: 1.3.0
+  - name: com.unity.services.deployment.api
+    version: 1.0.0
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638899112924410000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.services.multiplayer@1.1/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/operate-services-sdk.git
+    revision: 29827c6840217105516861298fc4902db7d4b25c
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
+    recommendedVersion: 1.1.0
     isDeprecated: 0
     deprecationMessage: 
   isDeprecated: 0
@@ -3174,6 +3351,930 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+- packageId: com.unity.transport@2.5.0
+  testable: 0
+  isDirectDependency: 0
+  version: 2.5.0
+  source: 1
+  resolvedPath: C:\Users\alexz\OneDrive\Documents\GitHub\CrisisHack\CrisisHack\Library\PackageCache\com.unity.transport@2.5.0
+  assetPath: Packages/com.unity.transport
+  name: com.unity.transport
+  displayName: Unity Transport
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: Unity network transport layer - the low-level interface for connecting
+    and sending data through a network
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 0.2.0-preview.4
+    - 0.2.1-preview.1
+    - 0.2.2-preview.2
+    - 0.2.3-preview.0
+    - 0.2.4-preview.0
+    - 0.3.0-preview.6
+    - 0.3.1-preview.4
+    - 0.4.0-preview.3
+    - 0.4.1-preview.1
+    - 0.5.0-preview.5
+    - 0.6.0-preview.7
+    - 0.8.0-preview.8
+    - 1.0.0-pre.2
+    - 1.0.0-pre.3
+    - 1.0.0-pre.4
+    - 1.0.0-pre.5
+    - 1.0.0-pre.6
+    - 1.0.0-pre.7
+    - 1.0.0-pre.8
+    - 1.0.0-pre.9
+    - 1.0.0-pre.10
+    - 1.0.0-pre.12
+    - 1.0.0-pre.13
+    - 1.0.0-pre.14
+    - 1.0.0-pre.15
+    - 1.0.0-pre.16
+    - 1.0.0
+    - 1.1.0
+    - 1.2.0
+    - 1.3.0
+    - 1.3.1
+    - 1.3.2
+    - 1.3.3
+    - 1.3.4
+    - 1.4.0
+    - 1.4.1
+    - 1.5.0
+    - 2.0.0-exp.6
+    - 2.0.0-exp.7
+    - 2.0.0-exp.8
+    - 2.0.0-pre.2
+    - 2.0.0-pre.3
+    - 2.0.0-pre.5
+    - 2.0.0-pre.6
+    - 2.0.0-pre.7
+    - 2.0.0-pre.8
+    - 2.0.1
+    - 2.0.2
+    - 2.1.0
+    - 2.2.1
+    - 2.3.0
+    - 2.4.0
+    - 2.5.0
+    - 2.5.1
+    - 2.5.2
+    - 2.5.3
+    compatible:
+    - 1.4.1
+    - 1.5.0
+    - 2.0.0-exp.6
+    - 2.0.0-exp.7
+    - 2.0.0-exp.8
+    - 2.0.0-pre.2
+    - 2.0.0-pre.3
+    - 2.0.0-pre.5
+    - 2.0.0-pre.6
+    - 2.0.0-pre.7
+    - 2.0.0-pre.8
+    - 2.0.1
+    - 2.0.2
+    - 2.1.0
+    - 2.2.1
+    - 2.3.0
+    - 2.4.0
+    - 2.5.0
+    - 2.5.1
+    - 2.5.2
+    - 2.5.3
+    recommended: 2.5.3
+    deprecated: []
+  dependencies:
+  - name: com.unity.burst
+    version: 1.8.12
+  - name: com.unity.collections
+    version: 2.2.1
+  - name: com.unity.mathematics
+    version: 1.3.1
+  resolvedDependencies:
+  - name: com.unity.burst
+    version: 1.8.13
+  - name: com.unity.mathematics
+    version: 1.3.1
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.collections
+    version: 2.2.1
+  - name: com.unity.nuget.mono-cecil
+    version: 1.11.4
+  - name: com.unity.modules.unityanalytics
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.test-framework.performance
+    version: 3.0.2
+  - name: com.unity.test-framework
+    version: 1.1.33
+  - name: com.unity.ext.nunit
+    version: 1.0.6
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638779209238290000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.transport@2.5/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.transport.git
+    revision: 93bd0ea88912e8f01d6d20c672afe55dffeac3b0
+    path: 
+  unityLifecycle:
+    version: 1.4.1
+    nextVersion: 
+    recommendedVersion: 2.5.0
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.collections@2.2.1
+  testable: 0
+  isDirectDependency: 0
+  version: 2.2.1
+  source: 1
+  resolvedPath: C:\Users\alexz\OneDrive\Documents\GitHub\CrisisHack\CrisisHack\Library\PackageCache\com.unity.collections@2.2.1
+  assetPath: Packages/com.unity.collections
+  name: com.unity.collections
+  displayName: Collections
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: assets
+  description: A C# collections library providing data structures that can be used
+    in jobs, and optimized by Burst compiler.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 0.0.9-preview.1
+    - 0.0.9-preview.2
+    - 0.0.9-preview.3
+    - 0.0.9-preview.4
+    - 0.0.9-preview.5
+    - 0.0.9-preview.6
+    - 0.0.9-preview.7
+    - 0.0.9-preview.8
+    - 0.0.9-preview.9
+    - 0.0.9-preview.10
+    - 0.0.9-preview.11
+    - 0.0.9-preview.12
+    - 0.0.9-preview.13
+    - 0.0.9-preview.14
+    - 0.0.9-preview.15
+    - 0.0.9-preview.16
+    - 0.0.9-preview.17
+    - 0.0.9-preview.18
+    - 0.0.9-preview.19
+    - 0.0.9-preview.20
+    - 0.1.0-preview
+    - 0.1.1-preview
+    - 0.2.0-preview.13
+    - 0.3.0-preview.0
+    - 0.4.0-preview.6
+    - 0.5.0-preview.9
+    - 0.5.1-preview.11
+    - 0.5.2-preview.8
+    - 0.6.0-preview.9
+    - 0.7.0-preview.2
+    - 0.7.1-preview.3
+    - 0.8.0-preview.5
+    - 0.9.0-preview.5
+    - 0.9.0-preview.6
+    - 0.11.0-preview.17
+    - 0.12.0-preview.13
+    - 0.14.0-preview.16
+    - 0.15.0-preview.21
+    - 0.17.0-preview.18
+    - 1.0.0-pre.3
+    - 1.0.0-pre.5
+    - 1.0.0-pre.6
+    - 1.1.0
+    - 1.2.3-pre.1
+    - 1.2.3
+    - 1.2.4
+    - 1.3.1
+    - 1.4.0
+    - 1.5.1
+    - 1.5.2
+    - 2.1.0-exp.4
+    - 2.1.0-pre.2
+    - 2.1.0-pre.6
+    - 2.1.0-pre.11
+    - 2.1.0-pre.18
+    - 2.1.1
+    - 2.1.4
+    - 2.2.0
+    - 2.2.1
+    - 2.3.0-exp.1
+    - 2.3.0-pre.3
+    - 2.4.0-exp.2
+    - 2.4.0-pre.2
+    - 2.4.0-pre.5
+    - 2.4.0
+    - 2.4.1
+    - 2.4.2
+    - 2.4.3
+    - 2.5.0-exp.1
+    - 2.5.0-pre.2
+    - 2.5.1
+    - 2.5.2
+    - 2.5.3
+    - 2.5.7
+    - 2.6.0-exp.2
+    - 2.6.0-pre.3
+    - 2.6.0-pre.4
+    compatible:
+    - 1.2.4
+    - 1.3.1
+    - 1.4.0
+    - 1.5.1
+    - 1.5.2
+    - 2.1.0-exp.4
+    - 2.1.0-pre.2
+    - 2.1.0-pre.6
+    - 2.1.0-pre.11
+    - 2.1.0-pre.18
+    - 2.1.1
+    - 2.1.4
+    - 2.2.0
+    - 2.2.1
+    - 2.3.0-exp.1
+    - 2.3.0-pre.3
+    - 2.4.0-exp.2
+    - 2.4.0-pre.2
+    - 2.4.0-pre.5
+    - 2.4.0
+    - 2.4.1
+    - 2.4.2
+    - 2.4.3
+    - 2.5.0-exp.1
+    - 2.5.0-pre.2
+    - 2.5.1
+    - 2.5.2
+    - 2.5.3
+    - 2.5.7
+    - 2.6.0-exp.2
+    - 2.6.0-pre.3
+    - 2.6.0-pre.4
+    recommended: 2.5.7
+    deprecated: []
+  dependencies:
+  - name: com.unity.burst
+    version: 1.8.8
+  - name: com.unity.nuget.mono-cecil
+    version: 1.11.4
+  - name: com.unity.modules.unityanalytics
+    version: 1.0.0
+  - name: com.unity.test-framework.performance
+    version: 3.0.2
+  resolvedDependencies:
+  - name: com.unity.burst
+    version: 1.8.13
+  - name: com.unity.mathematics
+    version: 1.3.1
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.nuget.mono-cecil
+    version: 1.11.4
+  - name: com.unity.modules.unityanalytics
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.test-framework.performance
+    version: 3.0.2
+  - name: com.unity.test-framework
+    version: 1.1.33
+  - name: com.unity.ext.nunit
+    version: 1.0.6
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  keywords:
+  - dots
+  - collections
+  - unity
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638302919950000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.collections@2.2/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/dots.git
+    revision: bf84b98e2ecdc7075ddf1271b62a793be86ae20f
+    path: 
+  unityLifecycle:
+    version: 1.2.4
+    nextVersion: 
+    recommendedVersion: 2.5.1
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.services.qos@1.3.0
+  testable: 0
+  isDirectDependency: 0
+  version: 1.3.0
+  source: 1
+  resolvedPath: C:\Users\alexz\OneDrive\Documents\GitHub\CrisisHack\CrisisHack\Library\PackageCache\com.unity.services.qos@1.3.0
+  assetPath: Packages/com.unity.services.qos
+  name: com.unity.services.qos
+  displayName: QoS
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: Provides connectivity Quality of Service (QoS) measurements from Unity
+    game clients to different Unity game services running in various geographic regions.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.3.0
+    compatible:
+    - 1.3.0
+    recommended: 1.3.0
+    deprecated: []
+  dependencies:
+  - name: com.unity.services.core
+    version: 1.12.4
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.0.2
+  - name: com.unity.services.authentication
+    version: 2.0.0
+  - name: com.unity.collections
+    version: 1.2.4
+  resolvedDependencies:
+  - name: com.unity.services.core
+    version: 1.13.0
+  - name: com.unity.modules.androidjni
+    version: 1.0.0
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.2.1
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.services.authentication
+    version: 3.3.3
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.collections
+    version: 2.2.1
+  - name: com.unity.burst
+    version: 1.8.13
+  - name: com.unity.mathematics
+    version: 1.3.1
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.nuget.mono-cecil
+    version: 1.11.4
+  - name: com.unity.modules.unityanalytics
+    version: 1.0.0
+  - name: com.unity.test-framework.performance
+    version: 3.0.2
+  - name: com.unity.test-framework
+    version: 1.1.33
+  - name: com.unity.ext.nunit
+    version: 1.0.6
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.services.qos@1.3/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/operate-services-sdk.git
+    revision: c95a6f4077dc0f3c3083e32645ecbb0a92e7a135
+    path: 
+  unityLifecycle:
+    version: 1.3.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.services.core@1.13.0
+  testable: 0
+  isDirectDependency: 0
+  version: 1.13.0
+  source: 1
+  resolvedPath: C:\Users\alexz\OneDrive\Documents\GitHub\CrisisHack\CrisisHack\Library\PackageCache\com.unity.services.core@1.13.0
+  assetPath: Packages/com.unity.services.core
+  name: com.unity.services.core
+  displayName: Services Core
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: assets
+  description: 'This package defines common components used by multiple Game Service
+    packages.
+
+    These are standardized and aim to unify the overall experience
+    of working with Game Services SDK.'
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.1
+    - 1.1.0-pre.7
+    - 1.1.0-pre.8
+    - 1.1.0-pre.9
+    - 1.1.0-pre.10
+    - 1.1.0-pre.11
+    - 1.1.0-pre.41
+    - 1.1.0-pre.69
+    - 1.2.0
+    - 1.3.1
+    - 1.3.2
+    - 1.4.0
+    - 1.4.1
+    - 1.4.2
+    - 1.4.3
+    - 1.5.2
+    - 1.6.0
+    - 1.7.0
+    - 1.7.1
+    - 1.8.1
+    - 1.8.2
+    - 1.9.0
+    - 1.10.1
+    - 1.11.0
+    - 1.12.0
+    - 1.12.1
+    - 1.12.2
+    - 1.12.4
+    - 1.12.5
+    - 1.13.0
+    - 1.14.0
+    - 1.15.1
+    compatible:
+    - 1.12.5
+    - 1.13.0
+    - 1.14.0
+    - 1.15.1
+    recommended: 1.15.1
+    deprecated: []
+  dependencies:
+  - name: com.unity.modules.androidjni
+    version: 1.0.0
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.2.1
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.androidjni
+    version: 1.0.0
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.2.1
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638542134710000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.services.core@1.13/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/operate-services-sdk.git
+    revision: b39fd5b596524e043554f2114f844632f592406d
+    path: 
+  unityLifecycle:
+    version: 1.12.5
+    nextVersion: 
+    recommendedVersion: 1.15.1
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.services.wire@1.4.0
+  testable: 0
+  isDirectDependency: 0
+  version: 1.4.0
+  source: 1
+  resolvedPath: C:\Users\alexz\OneDrive\Documents\GitHub\CrisisHack\CrisisHack\Library\PackageCache\com.unity.services.wire@1.4.0
+  assetPath: Packages/com.unity.services.wire
+  name: com.unity.services.wire
+  displayName: Wire
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: Wire provides notifications in real-time for Unity Gaming Services
+    subscribing to a particular service and listening for messages from that subscription
+    through a websocket connection.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0-preview.20
+    - 1.0.0
+    - 1.1.0
+    - 1.1.1
+    - 1.1.4
+    - 1.1.5
+    - 1.1.6
+    - 1.1.8
+    - 1.2.0
+    - 1.2.2
+    - 1.2.3
+    - 1.2.5
+    - 1.2.6
+    - 1.2.7
+    - 1.2.8
+    - 1.3.0
+    - 1.4.0
+    compatible:
+    - 1.2.3
+    - 1.2.5
+    - 1.2.6
+    - 1.2.7
+    - 1.2.8
+    - 1.3.0
+    - 1.4.0
+    recommended: 1.2.8
+    deprecated: []
+  dependencies:
+  - name: com.unity.services.core
+    version: 1.12.5
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.2.1
+  - name: com.unity.services.authentication
+    version: 2.7.4
+  resolvedDependencies:
+  - name: com.unity.services.core
+    version: 1.13.0
+  - name: com.unity.modules.androidjni
+    version: 1.0.0
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.2.1
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.services.authentication
+    version: 3.3.3
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638852460331360000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.services.wire@1.4/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/operate-services-sdk.git
+    revision: b52cf66f16e79e8d96634389f2334b342668df40
+    path: 
+  unityLifecycle:
+    version: 1.2.3
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.services.deployment@1.3.0
+  testable: 0
+  isDirectDependency: 0
+  version: 1.3.0
+  source: 1
+  resolvedPath: C:\Users\alexz\OneDrive\Documents\GitHub\CrisisHack\CrisisHack\Library\PackageCache\com.unity.services.deployment@1.3.0
+  assetPath: Packages/com.unity.services.deployment
+  name: com.unity.services.deployment
+  displayName: Deployment
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: assets
+  description: 'The Deployment package allows for a cohesive interface for the deployment
+    of assets and configurations for UGS services.
+
+
+    It is not used on its own
+    as UGS services will integrate with it.
+
+    It provides the base tooling, such
+    as the Deployment Window, so that UGS services have shared functionality surrounding
+    the deployment of the service''s configuration files.'
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0-pre.4
+    - 1.0.0-pre.5
+    - 1.0.0-pre.7
+    - 1.0.0
+    - 1.0.1
+    - 1.1.0
+    - 1.2.0
+    - 1.2.1
+    - 1.3.0
+    - 1.4.0
+    - 1.4.1
+    - 1.5.0
+    compatible:
+    - 1.3.0
+    - 1.4.0
+    - 1.4.1
+    - 1.5.0
+    recommended: 1.5.0
+    deprecated: []
+  dependencies:
+  - name: com.unity.services.core
+    version: 1.12.0
+  - name: com.unity.services.deployment.api
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.services.core
+    version: 1.13.0
+  - name: com.unity.modules.androidjni
+    version: 1.0.0
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.2.1
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.services.deployment.api
+    version: 1.0.0
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638384898980000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.services.deployment@1.3/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/operate-services-sdk.git
+    revision: baf0a678d3c8d1ed1941a064174bbe134374446c
+    path: 
+  unityLifecycle:
+    version: 1.3.0
+    nextVersion: 
+    recommendedVersion: 1.5.0
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.nuget.newtonsoft-json@3.2.1
+  testable: 0
+  isDirectDependency: 0
+  version: 3.2.1
+  source: 1
+  resolvedPath: C:\Users\alexz\OneDrive\Documents\GitHub\CrisisHack\CrisisHack\Library\PackageCache\com.unity.nuget.newtonsoft-json@3.2.1
+  assetPath: Packages/com.unity.nuget.newtonsoft-json
+  name: com.unity.nuget.newtonsoft-json
+  displayName: Newtonsoft Json
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: library
+  description: 'Newtonsoft Json for use in Unity projects and Unity packages. Currently
+    synced to version 13.0.2.
+
+
+    This package is used for advanced json serialization
+    and deserialization. Most Unity users will be better suited using the existing
+    json tools built into Unity.
+
+    To avoid assembly clashes, please use this
+    package if you intend to use Newtonsoft Json.'
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 3.2.1
+    compatible:
+    - 3.2.1
+    recommended: 3.2.1
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.nuget.newtonsoft-json.git
+    revision: d8e49aef8979bef617144382052ec2f479645eaf
+    path: 
+  unityLifecycle:
+    version: 3.2.1
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.services.authentication@3.3.3
+  testable: 0
+  isDirectDependency: 0
+  version: 3.3.3
+  source: 1
+  resolvedPath: C:\Users\alexz\OneDrive\Documents\GitHub\CrisisHack\CrisisHack\Library\PackageCache\com.unity.services.authentication@3.3.3
+  assetPath: Packages/com.unity.services.authentication
+  name: com.unity.services.authentication
+  displayName: Authentication
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: library
+  description: 'Client SDK offering player identity management for Unity Gaming Services.
+
+
+    Identity
+    providers can be configured from the editor or the Unity Dashboard.
+
+
+    Player
+    management is available in the Unity Dashboard.'
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0-pre.4
+    - 1.0.0-pre.6
+    - 1.0.0-pre.37
+    - 2.0.0
+    - 2.1.1
+    - 2.2.0
+    - 2.3.1
+    - 2.4.0
+    - 2.5.0-pre.3
+    - 2.5.0
+    - 2.6.1
+    - 2.7.1
+    - 2.7.2
+    - 2.7.4
+    - 3.0.0
+    - 3.1.0
+    - 3.2.0
+    - 3.3.0
+    - 3.3.1
+    - 3.3.3
+    - 3.4.0
+    - 3.4.1
+    - 3.5.1
+    compatible:
+    - 2.7.2
+    - 2.7.4
+    - 3.0.0
+    - 3.1.0
+    - 3.2.0
+    - 3.3.0
+    - 3.3.1
+    - 3.3.3
+    - 3.4.0
+    - 3.4.1
+    - 3.5.1
+    recommended: 3.5.1
+    deprecated: []
+  dependencies:
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.services.core
+    version: 1.13.0
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.2.1
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.services.core
+    version: 1.13.0
+  - name: com.unity.modules.androidjni
+    version: 1.0.0
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.2.1
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638542134730000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/operate-services-sdk.git
+    revision: e86f4e34afa8432d41879e433d2d43de6d1895d9
+    path: 
+  unityLifecycle:
+    version: 2.7.2
+    nextVersion: 
+    recommendedVersion: 3.5.1
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
 - packageId: com.unity.2d.animation@9.1.0
   testable: 0
   isDirectDependency: 0
@@ -3361,7 +4462,7 @@ m_ResolvedPackages:
   - name: com.unity.burst
     version: 1.8.13
   - name: com.unity.mathematics
-    version: 1.2.6
+    version: 1.3.1
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
   - name: com.unity.2d.sprite
@@ -3375,7 +4476,15 @@ m_ResolvedPackages:
   - name: com.unity.modules.imgui
     version: 1.0.0
   - name: com.unity.collections
-    version: 1.2.4
+    version: 2.2.1
+  - name: com.unity.nuget.mono-cecil
+    version: 1.11.4
+  - name: com.unity.modules.unityanalytics
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.test-framework.performance
+    version: 3.0.2
   - name: com.unity.test-framework
     version: 1.1.33
   - name: com.unity.ext.nunit
@@ -3625,7 +4734,7 @@ m_ResolvedPackages:
   - name: com.unity.burst
     version: 1.8.13
   - name: com.unity.mathematics
-    version: 1.2.6
+    version: 1.3.1
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
   - name: com.unity.2d.sprite
@@ -3641,7 +4750,15 @@ m_ResolvedPackages:
   - name: com.unity.2d.animation
     version: 9.1.0
   - name: com.unity.collections
-    version: 1.2.4
+    version: 2.2.1
+  - name: com.unity.nuget.mono-cecil
+    version: 1.11.4
+  - name: com.unity.modules.unityanalytics
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.test-framework.performance
+    version: 3.0.2
   - name: com.unity.test-framework
     version: 1.1.33
   - name: com.unity.ext.nunit
@@ -3876,7 +4993,7 @@ m_ResolvedPackages:
   - name: com.unity.burst
     version: 1.8.13
   - name: com.unity.mathematics
-    version: 1.2.6
+    version: 1.3.1
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
   - name: com.unity.2d.sprite
@@ -4209,7 +5326,7 @@ m_ResolvedPackages:
   - name: com.unity.burst
     version: 1.8.13
   - name: com.unity.mathematics
-    version: 1.2.6
+    version: 1.3.1
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
   - name: com.unity.2d.sprite
@@ -4254,210 +5371,35 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
-- packageId: com.unity.2d.common@8.0.2
+- packageId: com.unity.services.deployment.api@1.0.0
   testable: 0
   isDirectDependency: 0
-  version: 8.0.2
+  version: 1.0.0
   source: 1
-  resolvedPath: C:\Users\alexz\OneDrive\Documents\GitHub\CrisisHack\CrisisHack\Library\PackageCache\com.unity.2d.common@8.0.2
-  assetPath: Packages/com.unity.2d.common
-  name: com.unity.2d.common
-  displayName: 2D Common
-  author:
-    name: 
-    email: 
-    url: 
-  category: 2D
-  type: assets
-  description: 2D Common is a package that contains shared functionalities that are
-    used by most of the other 2D packages.
-  status: 0
-  errors: []
-  versions:
-    all:
-    - 1.0.9-preview.1
-    - 1.0.9-preview.2
-    - 1.0.10-preview
-    - 1.0.11-preview.1
-    - 1.1.0-preview.1
-    - 1.1.0-preview.2
-    - 1.2.0-preview.1
-    - 2.0.1
-    - 2.0.2
-    - 2.1.0
-    - 2.1.1
-    - 2.1.2
-    - 3.0.0
-    - 3.0.1
-    - 4.0.0
-    - 4.0.1
-    - 4.0.2
-    - 4.0.3
-    - 4.0.4
-    - 4.1.0
-    - 4.2.0
-    - 4.2.1
-    - 5.0.0-pre.1
-    - 5.0.0-pre.2
-    - 5.0.0
-    - 6.0.0-pre.2
-    - 6.0.0-pre.3
-    - 6.0.0-pre.4
-    - 6.0.0
-    - 6.0.1
-    - 6.0.2
-    - 6.0.3
-    - 6.0.4
-    - 6.0.5
-    - 6.0.6
-    - 6.0.7
-    - 6.0.8
-    - 6.1.0
-    - 7.0.0-pre.3
-    - 7.0.0-pre.4
-    - 7.0.0
-    - 7.0.1
-    - 7.0.2
-    - 7.0.3
-    - 8.0.0-pre.1
-    - 8.0.0-pre.2
-    - 8.0.0
-    - 8.0.1
-    - 8.0.2
-    - 8.0.3
-    - 8.0.4
-    - 8.1.0
-    - 8.1.1
-    - 9.0.0-pre.1
-    - 9.0.0-pre.2
-    - 9.0.0
-    - 9.0.1
-    - 9.0.2
-    - 9.0.3
-    - 9.0.4
-    - 9.0.5
-    - 9.0.6
-    - 9.0.7
-    - 9.1.0
-    - 9.1.1
-    - 10.0.0
-    - 11.0.0
-    - 11.0.1
-    - 12.0.0
-    compatible:
-    - 8.0.2
-    - 8.0.3
-    - 8.0.4
-    - 8.1.0
-    - 8.1.1
-    recommended: 8.0.4
-    deprecated: []
-  dependencies:
-  - name: com.unity.burst
-    version: 1.7.3
-  - name: com.unity.2d.sprite
-    version: 1.0.0
-  - name: com.unity.mathematics
-    version: 1.1.0
-  - name: com.unity.modules.animation
-    version: 1.0.0
-  - name: com.unity.modules.uielements
-    version: 1.0.0
-  resolvedDependencies:
-  - name: com.unity.burst
-    version: 1.8.13
-  - name: com.unity.mathematics
-    version: 1.2.6
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  - name: com.unity.2d.sprite
-    version: 1.0.0
-  - name: com.unity.modules.animation
-    version: 1.0.0
-  - name: com.unity.modules.uielements
-    version: 1.0.0
-  - name: com.unity.modules.ui
-    version: 1.0.0
-  - name: com.unity.modules.imgui
-    version: 1.0.0
-  keywords:
-  - 2d
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-  hideInEditor: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 638373846610000000
-  documentationUrl: https://docs.unity3d.com/Packages/com.unity.2d.common@8.0/manual/index.html
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.cds.internal.unity3d.com/unity/2d.git
-    revision: b7537404d2cb8ef24b567ac4733b4c586fb25b44
-    path: 
-  unityLifecycle:
-    version: 8.0.2
-    nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-- packageId: com.unity.mathematics@1.2.6
-  testable: 0
-  isDirectDependency: 0
-  version: 1.2.6
-  source: 1
-  resolvedPath: C:\Users\alexz\OneDrive\Documents\GitHub\CrisisHack\CrisisHack\Library\PackageCache\com.unity.mathematics@1.2.6
-  assetPath: Packages/com.unity.mathematics
-  name: com.unity.mathematics
-  displayName: Mathematics
+  resolvedPath: C:\Users\alexz\OneDrive\Documents\GitHub\CrisisHack\CrisisHack\Library\PackageCache\com.unity.services.deployment.api@1.0.0
+  assetPath: Packages/com.unity.services.deployment.api
+  name: com.unity.services.deployment.api
+  displayName: Deployment API
   author:
     name: 
     email: 
     url: 
   category: 
-  type: asset
-  description: Unity's C# SIMD math library providing vector types and math functions
-    with a shader like syntax.
+  type: 
+  description: This package contains the API designed to allow for implementing Deployment
+    functionality.
   status: 0
   errors: []
   versions:
     all:
-    - 0.0.12-preview.2
-    - 0.0.12-preview.5
-    - 0.0.12-preview.8
-    - 0.0.12-preview.10
-    - 0.0.12-preview.11
-    - 0.0.12-preview.13
-    - 0.0.12-preview.17
-    - 0.0.12-preview.19
-    - 0.0.12-preview.20
-    - 1.0.0-preview.1
-    - 1.0.1
-    - 1.1.0-preview.1
-    - 1.1.0
-    - 1.2.1
-    - 1.2.4
-    - 1.2.5
-    - 1.2.6
-    - 1.3.1
-    - 1.3.2
+    - 1.0.0
     compatible:
-    - 1.2.6
-    - 1.3.1
-    - 1.3.2
-    recommended: 1.2.6
+    - 1.0.0
+    recommended: 
     deprecated: []
   dependencies: []
   resolvedDependencies: []
-  keywords:
-  - unity
+  keywords: []
   registry:
     id: main
     name: 
@@ -4468,199 +5410,18 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637841876140000000
-  documentationUrl: 
+  datePublishedTicks: 0
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.services.deployment.api@1.0/manual/index.html
   hasRepository: 1
   repository:
     type: git
-    url: https://github.com/Unity-Technologies/Unity.Mathematics.git
-    revision: f110c8c230d253654afed153569030a587cc7557
+    url: https://github.cds.internal.unity3d.com/unity/operate-services-sdk.git
+    revision: e4df831d5e80c5d0c29785d4140e031b0bbc0264
     path: 
   unityLifecycle:
-    version: 1.2.6
-    nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-- packageId: com.unity.collections@1.2.4
-  testable: 0
-  isDirectDependency: 0
-  version: 1.2.4
-  source: 1
-  resolvedPath: C:\Users\alexz\OneDrive\Documents\GitHub\CrisisHack\CrisisHack\Library\PackageCache\com.unity.collections@1.2.4
-  assetPath: Packages/com.unity.collections
-  name: com.unity.collections
-  displayName: Collections
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: asset
-  description: A C# collections library providing data structures that can be used
-    in jobs, and optimized by Burst compiler.
-  status: 0
-  errors: []
-  versions:
-    all:
-    - 0.0.9-preview.1
-    - 0.0.9-preview.2
-    - 0.0.9-preview.3
-    - 0.0.9-preview.4
-    - 0.0.9-preview.5
-    - 0.0.9-preview.6
-    - 0.0.9-preview.7
-    - 0.0.9-preview.8
-    - 0.0.9-preview.9
-    - 0.0.9-preview.10
-    - 0.0.9-preview.11
-    - 0.0.9-preview.12
-    - 0.0.9-preview.13
-    - 0.0.9-preview.14
-    - 0.0.9-preview.15
-    - 0.0.9-preview.16
-    - 0.0.9-preview.17
-    - 0.0.9-preview.18
-    - 0.0.9-preview.19
-    - 0.0.9-preview.20
-    - 0.1.0-preview
-    - 0.1.1-preview
-    - 0.2.0-preview.13
-    - 0.3.0-preview.0
-    - 0.4.0-preview.6
-    - 0.5.0-preview.9
-    - 0.5.1-preview.11
-    - 0.5.2-preview.8
-    - 0.6.0-preview.9
-    - 0.7.0-preview.2
-    - 0.7.1-preview.3
-    - 0.8.0-preview.5
-    - 0.9.0-preview.5
-    - 0.9.0-preview.6
-    - 0.11.0-preview.17
-    - 0.12.0-preview.13
-    - 0.14.0-preview.16
-    - 0.15.0-preview.21
-    - 0.17.0-preview.18
-    - 1.0.0-pre.3
-    - 1.0.0-pre.5
-    - 1.0.0-pre.6
-    - 1.1.0
-    - 1.2.3-pre.1
-    - 1.2.3
-    - 1.2.4
-    - 1.3.1
-    - 1.4.0
-    - 1.5.1
-    - 1.5.2
-    - 2.1.0-exp.4
-    - 2.1.0-pre.2
-    - 2.1.0-pre.6
-    - 2.1.0-pre.11
-    - 2.1.0-pre.18
-    - 2.1.1
-    - 2.1.4
-    - 2.2.0
-    - 2.2.1
-    - 2.3.0-exp.1
-    - 2.3.0-pre.3
-    - 2.4.0-exp.2
-    - 2.4.0-pre.2
-    - 2.4.0-pre.5
-    - 2.4.0
-    - 2.4.1
-    - 2.4.2
-    - 2.4.3
-    - 2.5.0-exp.1
-    - 2.5.0-pre.2
-    - 2.5.1
-    - 2.5.2
-    - 2.5.3
-    - 2.5.7
-    - 2.6.0-exp.2
-    - 2.6.0-pre.3
-    - 2.6.0-pre.4
-    compatible:
-    - 1.2.4
-    - 1.3.1
-    - 1.4.0
-    - 1.5.1
-    - 1.5.2
-    - 2.1.0-exp.4
-    - 2.1.0-pre.2
-    - 2.1.0-pre.6
-    - 2.1.0-pre.11
-    - 2.1.0-pre.18
-    - 2.1.1
-    - 2.1.4
-    - 2.2.0
-    - 2.2.1
-    - 2.3.0-exp.1
-    - 2.3.0-pre.3
-    - 2.4.0-exp.2
-    - 2.4.0-pre.2
-    - 2.4.0-pre.5
-    - 2.4.0
-    - 2.4.1
-    - 2.4.2
-    - 2.4.3
-    - 2.5.0-exp.1
-    - 2.5.0-pre.2
-    - 2.5.1
-    - 2.5.2
-    - 2.5.3
-    - 2.5.7
-    - 2.6.0-exp.2
-    - 2.6.0-pre.3
-    - 2.6.0-pre.4
-    recommended: 2.5.7
-    deprecated: []
-  dependencies:
-  - name: com.unity.burst
-    version: 1.6.6
-  - name: com.unity.test-framework
-    version: 1.1.31
-  resolvedDependencies:
-  - name: com.unity.burst
-    version: 1.8.13
-  - name: com.unity.mathematics
-    version: 1.2.6
-  - name: com.unity.modules.jsonserialize
     version: 1.0.0
-  - name: com.unity.test-framework
-    version: 1.1.33
-  - name: com.unity.ext.nunit
-    version: 1.0.6
-  - name: com.unity.modules.imgui
-    version: 1.0.0
-  keywords:
-  - dots
-  - collections
-  - unity
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-  hideInEditor: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 637908244640000000
-  documentationUrl: 
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.cds.internal.unity3d.com/unity/dots.git
-    revision: 32d153034bea0703098263469b88c73619422782
-    path: 
-  unityLifecycle:
-    version: 1.2.4
     nextVersion: 
-    recommendedVersion: 2.5.1
+    recommendedVersion: 1.1.2
     isDeprecated: 0
     deprecationMessage: 
   isDeprecated: 0
@@ -4847,7 +5608,7 @@ m_ResolvedPackages:
     version: 1.0.0
   resolvedDependencies:
   - name: com.unity.mathematics
-    version: 1.2.6
+    version: 1.3.1
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
   keywords: []
@@ -4871,6 +5632,440 @@ m_ResolvedPackages:
     path: 
   unityLifecycle:
     version: 1.8.13
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.nuget.mono-cecil@1.11.4
+  testable: 0
+  isDirectDependency: 0
+  version: 1.11.4
+  source: 1
+  resolvedPath: C:\Users\alexz\OneDrive\Documents\GitHub\CrisisHack\CrisisHack\Library\PackageCache\com.unity.nuget.mono-cecil@1.11.4
+  assetPath: Packages/com.unity.nuget.mono-cecil
+  name: com.unity.nuget.mono-cecil
+  displayName: Mono Cecil
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: library
+  description: 'The mono cecil library from https://www.nuget.org/packages/Mono.Cecil/
+
+
+    This
+    package is intended for internal Unity use only. Most Unity users will be better
+    suite using the existing community tooling.
+
+    To avoid assembly clashes, please
+    use this package if you intend to use Mono.Cecil.'
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.11.4
+    compatible:
+    - 1.11.4
+    recommended: 1.11.4
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.nuget.mono-cecil.git
+    revision: d0133ce672d724694b56bfd20672acf6f8737fec
+    path: 
+  unityLifecycle:
+    version: 1.11.4
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.test-framework.performance@3.0.2
+  testable: 0
+  isDirectDependency: 0
+  version: 3.0.2
+  source: 1
+  resolvedPath: C:\Users\alexz\OneDrive\Documents\GitHub\CrisisHack\CrisisHack\Library\PackageCache\com.unity.test-framework.performance@3.0.2
+  assetPath: Packages/com.unity.test-framework.performance
+  name: com.unity.test-framework.performance
+  displayName: Performance testing API
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: assets
+  description: Extension to the Unity Test framework package. Adds performance testing
+    capabilities and collects configuration metadata.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 0.1.27-preview
+    - 0.1.29-preview
+    - 0.1.31-preview
+    - 0.1.33-preview
+    - 0.1.34-preview
+    - 0.1.36-preview
+    - 0.1.37-preview
+    - 0.1.39-preview
+    - 0.1.40-preview
+    - 0.1.41-preview
+    - 0.1.42-preview
+    - 0.1.44-preview
+    - 0.1.45-preview
+    - 0.1.47-preview
+    - 0.1.48-preview
+    - 0.1.49-preview
+    - 0.1.50-preview
+    - 1.0.4-preview
+    - 1.0.6-preview
+    - 1.0.9-preview
+    - 1.1.2-preview
+    - 1.2.0-preview
+    - 1.2.1-preview
+    - 1.2.3-preview
+    - 1.2.5-preview
+    - 1.2.6-preview
+    - 1.3.0-preview
+    - 1.3.1-preview
+    - 1.3.2-preview
+    - 1.3.3-preview
+    - 2.0.1-preview
+    - 2.0.2-preview
+    - 2.0.3-preview
+    - 2.0.6-preview
+    - 2.0.7-preview
+    - 2.0.8-preview
+    - 2.0.9-preview
+    - 2.1.0-preview
+    - 2.2.0-preview
+    - 2.3.1-preview
+    - 2.4.1-preview
+    - 2.5.1-preview
+    - 2.6.0-preview
+    - 2.7.0-preview
+    - 2.8.0-preview
+    - 2.8.1-preview
+    - 3.0.0-pre.1
+    - 3.0.0-pre.2
+    - 3.0.1
+    - 3.0.2
+    - 3.0.3
+    - 3.1.0
+    compatible:
+    - 1.3.3-preview
+    - 2.0.1-preview
+    - 2.0.2-preview
+    - 2.0.3-preview
+    - 2.0.6-preview
+    - 2.0.7-preview
+    - 2.0.8-preview
+    - 2.0.9-preview
+    - 2.1.0-preview
+    - 2.2.0-preview
+    - 2.3.1-preview
+    - 2.4.1-preview
+    - 2.5.1-preview
+    - 2.6.0-preview
+    - 2.7.0-preview
+    - 2.8.0-preview
+    - 2.8.1-preview
+    - 3.0.0-pre.1
+    - 3.0.0-pre.2
+    - 3.0.1
+    - 3.0.2
+    - 3.0.3
+    - 3.1.0
+    recommended: 
+    deprecated: []
+  dependencies:
+  - name: com.unity.test-framework
+    version: 1.1.31
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.test-framework
+    version: 1.1.33
+  - name: com.unity.ext.nunit
+    version: 1.0.6
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  keywords:
+  - performance
+  - test
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638247729970000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.test-framework.performance@3.0/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.test-framework.performance.git
+    revision: 1b5b8963c496694439bad232d2abe0de1848fb71
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.mathematics@1.3.1
+  testable: 0
+  isDirectDependency: 0
+  version: 1.3.1
+  source: 1
+  resolvedPath: C:\Users\alexz\OneDrive\Documents\GitHub\CrisisHack\CrisisHack\Library\PackageCache\com.unity.mathematics@1.3.1
+  assetPath: Packages/com.unity.mathematics
+  name: com.unity.mathematics
+  displayName: Mathematics
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: assets
+  description: Unity's C# SIMD math library providing vector types and math functions
+    with a shader like syntax.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 0.0.12-preview.2
+    - 0.0.12-preview.5
+    - 0.0.12-preview.8
+    - 0.0.12-preview.10
+    - 0.0.12-preview.11
+    - 0.0.12-preview.13
+    - 0.0.12-preview.17
+    - 0.0.12-preview.19
+    - 0.0.12-preview.20
+    - 1.0.0-preview.1
+    - 1.0.1
+    - 1.1.0-preview.1
+    - 1.1.0
+    - 1.2.1
+    - 1.2.4
+    - 1.2.5
+    - 1.2.6
+    - 1.3.1
+    - 1.3.2
+    compatible:
+    - 1.2.6
+    - 1.3.1
+    - 1.3.2
+    recommended: 1.2.6
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - unity
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638265749150000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.mathematics@1.3/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.com/Unity-Technologies/Unity.Mathematics.git
+    revision: c4f37031a75eb8afb8dfaf5d68fbcce226c70749
+    path: 
+  unityLifecycle:
+    version: 1.2.6
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.2d.common@8.0.2
+  testable: 0
+  isDirectDependency: 0
+  version: 8.0.2
+  source: 1
+  resolvedPath: C:\Users\alexz\OneDrive\Documents\GitHub\CrisisHack\CrisisHack\Library\PackageCache\com.unity.2d.common@8.0.2
+  assetPath: Packages/com.unity.2d.common
+  name: com.unity.2d.common
+  displayName: 2D Common
+  author:
+    name: 
+    email: 
+    url: 
+  category: 2D
+  type: assets
+  description: 2D Common is a package that contains shared functionalities that are
+    used by most of the other 2D packages.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.9-preview.1
+    - 1.0.9-preview.2
+    - 1.0.10-preview
+    - 1.0.11-preview.1
+    - 1.1.0-preview.1
+    - 1.1.0-preview.2
+    - 1.2.0-preview.1
+    - 2.0.1
+    - 2.0.2
+    - 2.1.0
+    - 2.1.1
+    - 2.1.2
+    - 3.0.0
+    - 3.0.1
+    - 4.0.0
+    - 4.0.1
+    - 4.0.2
+    - 4.0.3
+    - 4.0.4
+    - 4.1.0
+    - 4.2.0
+    - 4.2.1
+    - 5.0.0-pre.1
+    - 5.0.0-pre.2
+    - 5.0.0
+    - 6.0.0-pre.2
+    - 6.0.0-pre.3
+    - 6.0.0-pre.4
+    - 6.0.0
+    - 6.0.1
+    - 6.0.2
+    - 6.0.3
+    - 6.0.4
+    - 6.0.5
+    - 6.0.6
+    - 6.0.7
+    - 6.0.8
+    - 6.1.0
+    - 7.0.0-pre.3
+    - 7.0.0-pre.4
+    - 7.0.0
+    - 7.0.1
+    - 7.0.2
+    - 7.0.3
+    - 8.0.0-pre.1
+    - 8.0.0-pre.2
+    - 8.0.0
+    - 8.0.1
+    - 8.0.2
+    - 8.0.3
+    - 8.0.4
+    - 8.1.0
+    - 8.1.1
+    - 9.0.0-pre.1
+    - 9.0.0-pre.2
+    - 9.0.0
+    - 9.0.1
+    - 9.0.2
+    - 9.0.3
+    - 9.0.4
+    - 9.0.5
+    - 9.0.6
+    - 9.0.7
+    - 9.1.0
+    - 9.1.1
+    - 10.0.0
+    - 11.0.0
+    - 11.0.1
+    - 12.0.0
+    compatible:
+    - 8.0.2
+    - 8.0.3
+    - 8.0.4
+    - 8.1.0
+    - 8.1.1
+    recommended: 8.0.4
+    deprecated: []
+  dependencies:
+  - name: com.unity.burst
+    version: 1.7.3
+  - name: com.unity.2d.sprite
+    version: 1.0.0
+  - name: com.unity.mathematics
+    version: 1.1.0
+  - name: com.unity.modules.animation
+    version: 1.0.0
+  - name: com.unity.modules.uielements
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.burst
+    version: 1.8.13
+  - name: com.unity.mathematics
+    version: 1.3.1
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.2d.sprite
+    version: 1.0.0
+  - name: com.unity.modules.animation
+    version: 1.0.0
+  - name: com.unity.modules.uielements
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  keywords:
+  - 2d
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638373846610000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.2d.common@8.0/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/2d.git
+    revision: b7537404d2cb8ef24b567ac4733b4c586fb25b44
+    path: 
+  unityLifecycle:
+    version: 8.0.2
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
