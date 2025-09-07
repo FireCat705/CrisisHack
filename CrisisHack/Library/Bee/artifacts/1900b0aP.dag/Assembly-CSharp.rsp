@@ -333,6 +333,7 @@
 "Assets/scripts/ChatManager.cs"
 "Assets/scripts/ChatMessage.cs"
 "Assets/scripts/clickDrop.cs"
+"Assets/scripts/MulltiplayerUI.cs"
 -langversion:9.0
 /deterministic
 /optimize+

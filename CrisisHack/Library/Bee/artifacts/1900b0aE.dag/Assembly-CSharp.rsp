@@ -100,7 +100,6 @@
 -define:NETSTANDARD
 -define:NETSTANDARD2_1
 -define:ENABLE_PROFILER
--define:UNITY_SERVER
 -define:DEBUG
 -define:TRACE
 -define:UNITY_ASSERTIONS
@@ -369,7 +368,6 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Services.Authentication.Editor.Shared.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Services.Authentication.PlayerAccounts.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Services.Authentication.ref.dll"
--r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Services.Authentication.Server.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Services.Core.Analytics.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Services.Core.Environments.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Services.Core.ref.dll"
@@ -377,10 +375,7 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Services.Multiplayer.Editor.Shared.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Services.Multiplayer.Multiplay.Authoring.Core.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Services.Multiplayer.Multiplay.Authoring.Editor.ref.dll"
--r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Services.Multiplayer.Multiplay.ref.dll"
--r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Services.Multiplayer.Multiplay.Sqp.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Services.Multiplayer.ref.dll"
--r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Services.Multiplayer.Server.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Services.QoS.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.ref.dll"

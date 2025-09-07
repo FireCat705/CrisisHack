@@ -100,7 +100,6 @@
 -define:NETSTANDARD
 -define:NETSTANDARD2_1
 -define:ENABLE_PROFILER
--define:UNITY_SERVER
 -define:DEBUG
 -define:TRACE
 -define:UNITY_ASSERTIONS
@@ -348,8 +347,6 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Services.Authentication.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Services.Core.Internal.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Services.Core.ref.dll"
--r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Services.Multiplayer.Multiplay.ref.dll"
--r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Services.Multiplayer.Multiplay.Wire.Internal.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Services.QoS.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
