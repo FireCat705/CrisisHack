@@ -34,6 +34,7 @@ Library\Bee\artifacts\mvdfrm\Unity.PlasticSCM.Editor.ref.dll_257AEB342BE77856.mv
 Library\Bee\artifacts\mvdfrm\Unity.Rider.Editor.ref.dll_9B5591808ABA37AF.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Services.Authentication.Editor.Shared.ref.dll_851AD2D833C89768.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Services.Authentication.PlayerAccounts.ref.dll_FE92F4FC03A12DAB.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.Services.Authentication.Server.ref.dll_349B8F6CB7D36017.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Services.Authentication.ref.dll_AA487F5786203DE0.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Services.Core.Analytics.ref.dll_EDA1682A714EA6BF.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Services.Core.Environments.ref.dll_7E0AC2CDE81D9C6D.mvfrm
@@ -42,6 +43,9 @@ Library\Bee\artifacts\mvdfrm\Unity.Services.Multiplayer.Editor.Matchmaker.Author
 Library\Bee\artifacts\mvdfrm\Unity.Services.Multiplayer.Editor.Shared.ref.dll_8FB16A737F273830.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Services.Multiplayer.Multiplay.Authoring.Core.ref.dll_52EA679E41529C43.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Services.Multiplayer.Multiplay.Authoring.Editor.ref.dll_ED84F8B832C90751.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.Services.Multiplayer.Multiplay.Sqp.ref.dll_C927C7E51F80207B.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.Services.Multiplayer.Multiplay.ref.dll_45FF9CA378EE17A7.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.Services.Multiplayer.Server.ref.dll_8B38D8AAAE0F52CF.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Services.Multiplayer.ref.dll_13E2AECA5CD67FA8.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Services.QoS.ref.dll_7A6B4C964C0CAC83.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.TextMeshPro.Editor.ref.dll_159E061D77A10B86.mvfrm
